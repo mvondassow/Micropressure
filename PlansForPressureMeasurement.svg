@@ -1,0 +1,336 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="744.09448819"
+   height="1052.3622047"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.5 r10040"
+   sodipodi:docname="PlansForPressureMeasurement.svg">
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="2.0302929"
+     inkscape:cx="243.53324"
+     inkscape:cy="389.33071"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1366"
+     inkscape:window-height="749"
+     inkscape:window-x="-4"
+     inkscape:window-y="-4"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <text
+       xml:space="preserve"
+       style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+       x="28.449198"
+       y="89.153625"
+       id="text2985"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="28.449198"
+         y="89.153625"
+         id="tspan2989" /></text>
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot3031"
+       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"><flowRegion
+         id="flowRegion3033"><rect
+           id="rect3035"
+           width="699.03741"
+           height="394.22461"
+           x="18.288771"
+           y="24.126888" /></flowRegion><flowPara
+         id="flowPara3037">Pressure measurement in embryos, valve method:</flowPara><flowPara
+         id="flowPara3039" /><flowPara
+         id="flowPara3043">My previous attempt at measuring pressure with a manual version of the electrical conductivity 'servo null' method failed because of the large lags in the change in conductivity at low pressure differences. One possible solution would be to put a easily displaced one-way valve: a pressure difference sufficient to open the valve (allowing flow) would cause the conductivity to jump as a current could flow through the solution; pressure differences below the threshold would have low conductivity. Unlike the servo null method, the solution inside and outside the pipette would have the same conductivity, but similar to that system, one would measure pressure based on flow. Some possible designs: </flowPara><flowPara
+         id="flowPara3063" /><flowPara
+         id="flowPara3061">One possibility would be to insert a soft, 10 - 100 um, PDMS ball into the pipette needle. When the pressure in the needle is greater than that outside, the ball should close the flow path, reducing the conductivity. One challenge would be making a suffifiently small,</flowPara><flowPara
+         id="flowPara3071">soft sphere. Another challenge would be inserting just one into the needle _after_ filling the needle. Finally, one would have to shape the needle or orient it so that the ball fell down to close the needle at rest.</flowPara><flowPara
+         id="flowPara3073" /><flowPara
+         id="flowPara3075">A second design would be to use a soft PDMS flap across a hole. One could place it on the downstream side of the hole in order to</flowPara><flowPara
+         id="flowPara3047">make it easier to fill. One challenge would be that this would make it hard to exclude/remove bubbles. A second challenge would be that at the very low flow rates necessary, one would have to minimize capacitance of the space ahead of the valve, as well as the amount of flow needed to close the valve.  </flowPara></flowRoot>    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 179.77702,423.14261 19.98774,-17.59774 -9.05316,-12.06614 8.70744,-7.29446 9.53959,9.83605 26.82585,-21.27921 17.28625,20.7435 -56.00746,46.32715 z"
+       id="path3088"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccccccc" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 185.30862,427.29131 13.13755,-11.75465 6.9145,8.98885 -13.13755,11.75465 0,0 z"
+       id="path3092"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 200.52052,417.61101 8.98885,-8.2974 -14.52045,-17.9777 2.07435,-2.07435 15.2119,18.66915 6.9145,-7.60595 1.38291,3.45725 -17.97771,17.9777 z"
+       id="path3094"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 217.11532,397.55896 7.60596,9.6803 22.1264,-18.66915 -8.2974,-8.2974 z"
+       id="path3096"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 192.22312,433.51436 -2.7658,-11.75465"
+       id="path3102"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 197.06327,430.05711 -3.45725,-11.0632"
+       id="path3104"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 227.48708,402.39911 -1.3829,-11.75465"
+       id="path3106"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 231.63578,398.94186 -0.69145,-11.75465"
+       id="path3108"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 238.55028,394.79316 -2.07435,-12.4461"
+       id="path3110"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 233.71013,396.17606 0,-12.4461"
+       id="path3112"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 240.62463,390.64446 0,-8.2974"
+       id="path3114"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 229.56143,400.32476 -2.07435,-12.4461"
+       id="path3116"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 194.29747,432.13146 -2.07435,-10.37175"
+       id="path3118"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 198.44617,427.98276 0,-2.7658"
+       id="path3120"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 222.64693,396.86751 0,-3.45725"
+       id="path3122"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 188.07442,429.36566 -1.3829,-2.7658"
+       id="path3124"
+       inkscape:connector-curvature="0" />
+    <text
+       xml:space="preserve"
+       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+       x="291.79193"
+       y="380.96417"
+       id="text3126"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3128"
+         x="291.79193"
+         y="380.96417">Could trap bubbles when one screws in the back bolt after inserting</tspan><tspan
+         sodipodi:role="line"
+         x="291.79193"
+         y="395.96417"
+         id="tspan3140">the PDMS bead... but maybe one could control that by filling it carefully</tspan><tspan
+         sodipodi:role="line"
+         x="291.79193"
+         y="410.96417"
+         id="tspan3142">and shaping the tip of the bolt to a point or hemisphere.</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 181.34936,422.35644 -10.56119,9.77502 16.5948,17.28625 8.2974,-7.60595 -6.22305,-5.5316 10.37175,-8.98885 -5.5316,-6.9145 -8.98885,8.2974 z"
+       id="path3130"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccccccc" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 236.47593,374.74111 4.1487,4.84015 -18.66915,16.5948 5.5316,6.22305 18.66915,-14.52045 7.60595,6.9145 9.6803,-8.98885 -17.28625,-20.05206 z"
+       id="path3132"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccccccc" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 141.74727,473.61846 -24.89221,25.58366 26.27511,-22.12641 60.15615,-55.316 -2.7658,-3.5316 z"
+       id="path3136"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccccc" />
+    <path
+       sodipodi:type="arc"
+       style="fill:#bd3300;fill-opacity:0.76470588;fill-rule:nonzero;stroke:#0000ff;stroke-width:2.5;stroke-miterlimit:100;stroke-opacity:1;stroke-dasharray:none"
+       id="path3138"
+       sodipodi:cx="156.95917"
+       sodipodi:cy="461.5181"
+       sodipodi:rx="2.0743501"
+       sodipodi:ry="1.0371751"
+       d="m 159.03352,461.5181 a 2.0743501,1.0371751 0 1 1 -4.1487,0 2.0743501,1.0371751 0 1 1 4.1487,0 z" />
+    <path
+       style="fill:#0000ff;fill-opacity:1;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 221.695,396.42233 4.84015,6.22305 c 0,0 -4.92507,1.61808 -6.22305,0 -1.32964,-1.65755 1.3829,-6.22305 1.3829,-6.22305 z"
+       id="path3144"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccac" />
+    <path
+       style="fill:none;stroke:#898989;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 162.53813,456.38905 58.61223,-55.16446 110.32891,-88.16462"
+       id="path3914"
+       inkscape:connector-curvature="0" />
+    <text
+       xml:space="preserve"
+       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+       x="250.21021"
+       y="448.50842"
+       id="text3918"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3920"
+         x="250.21021"
+         y="448.50842">Probably would also have problems</tspan><tspan
+         sodipodi:role="line"
+         x="250.21021"
+         y="463.50842"
+         id="tspan3922">with bubbles when casting the holder,</tspan><tspan
+         sodipodi:role="line"
+         x="250.21021"
+         y="478.50842"
+         id="tspan3924">especially around the threads.</tspan><tspan
+         sodipodi:role="line"
+         x="250.21021"
+         y="493.50842"
+         id="tspan3926" /><tspan
+         sodipodi:role="line"
+         x="250.21021"
+         y="508.50842"
+         id="tspan3928">What if I get a long acrylic threaded</tspan><tspan
+         sodipodi:role="line"
+         x="250.21021"
+         y="523.50842"
+         id="tspan3930">standoff and an acrylic bolt, drill down</tspan><tspan
+         sodipodi:role="line"
+         x="250.21021"
+         y="538.50842"
+         id="tspan3932">the center of the bolt, cut part of it off,</tspan><tspan
+         sodipodi:role="line"
+         x="250.21021"
+         y="553.50842"
+         id="tspan3936">and thread it down the middle. Only</tspan><tspan
+         sodipodi:role="line"
+         x="250.21021"
+         y="568.50842"
+         id="tspan3940">have to cast the side port then. Looks </tspan><tspan
+         sodipodi:role="line"
+         x="250.21021"
+         y="583.50842"
+         id="tspan3942">difficult to find the parts though.</tspan><tspan
+         sodipodi:role="line"
+         x="250.21021"
+         y="598.50842"
+         id="tspan3944" /><tspan
+         sodipodi:role="line"
+         x="250.21021"
+         y="613.50842"
+         id="tspan3946">Maybe get a polycarbonate rod, tap</tspan><tspan
+         sodipodi:role="line"
+         x="250.21021"
+         y="628.50842"
+         id="tspan3948">threads in the ends, and drill the T,</tspan><tspan
+         sodipodi:role="line"
+         x="250.21021"
+         y="643.50842"
+         id="tspan3950">then ... to make the side port.</tspan><tspan
+         sodipodi:role="line"
+         x="250.21021"
+         y="658.50842"
+         id="tspan3956" /><tspan
+         sodipodi:role="line"
+         x="250.21021"
+         y="673.50842"
+         id="tspan3958">Or make the whole T out of PDMS </tspan><tspan
+         sodipodi:role="line"
+         x="250.21021"
+         y="688.50842"
+         id="tspan3960">and use friction to hold it in (because</tspan><tspan
+         sodipodi:role="line"
+         x="250.21021"
+         y="703.50842"
+         id="tspan3962">that always works and glass never</tspan><tspan
+         sodipodi:role="line"
+         x="250.21021"
+         y="718.50842"
+         id="tspan3964">shatters). </tspan><tspan
+         sodipodi:role="line"
+         x="250.21021"
+         y="733.50842"
+         id="tspan3966" /><tspan
+         sodipodi:role="line"
+         x="250.21021"
+         y="748.50842"
+         id="tspan3968">Might work to 3D print it...either don't</tspan><tspan
+         sodipodi:role="line"
+         x="250.21021"
+         y="763.50842"
+         id="tspan3970">have very detailed threads (just needs</tspan><tspan
+         sodipodi:role="line"
+         x="250.21021"
+         y="778.50842"
+         id="tspan3972">to hold) or - perhaps better - use </tspan><tspan
+         sodipodi:role="line"
+         x="250.21021"
+         y="793.50842"
+         id="tspan3976">a half or quarter turn connector style.</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 58.119694,684.43497 92.597479,743.0472 190.6129,686.89766 151.70225,631.24067 z"
+       id="path3952"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 100.97065,660.30052 11.32842,16.99262 3.44778,-0.61567 3.44778,6.27988 -11.45155,6.40302 -2.58584,-3.44779 -34.231512,19.7016 5.910478,9.85079 34.724054,-17.9777 -2.0933,-3.32464 30.96844,-17.4236 2.67819,4.34051 29.27533,-18.31632 -7.38809,-11.82096 -28.32104,16.74636 1.60075,2.95523 -14.16052,7.88064 -3.44778,-5.91048 3.44778,-2.4627 -11.82095,-17.23889 z"
+       id="path3954"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccccccccccccccccccc" />
+  </g>
+</svg>
